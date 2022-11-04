@@ -5,7 +5,7 @@ margin: 0;
 padding: 0;
 }
 #page1{
-    background-image: url('./assets/page1-bg.jpg');
+    background-image: url('page1-bg.jpg');
     
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
@@ -56,7 +56,7 @@ flex-direction: column;
 /* playername.html CSS part */
 #page2{
   
-    background-image: url('./assets/page2-bg.jpg');
+    background-image: url('page2-bg.jpg');
     
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
