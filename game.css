@@ -7,14 +7,14 @@ body{
     overflow: hidden;
 }
 .gameContainer{
-background-image: url(./assets/gamebg.png);
+background-image: url(gamebg.png);
 background-repeat: no-repeat;
 background-size: 205vh 49vw;
 width: 100%;
 height: 100vh;
 }
 .batman{
-    background-image: url(./assets/batman-dc.gif);
+    background-image: url(batman-dc.gif);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: aqua; */
@@ -25,7 +25,7 @@ height: 100vh;
     left: 52px;
 }
 .obstacle{
-    background-image: url(./assets/joker.gif);
+    background-image: url(joker.gif);
     background-repeat: no-repeat;
     background-size: cover;
     width: 80px;
